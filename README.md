@@ -18,7 +18,6 @@ administration skills using Red Hat Enterprise Linux 10.2.
 - User and Group Management
 - File Permissions
 - File Management
-- Process Management
 - System Information
 
 ## Objectives
@@ -26,8 +25,6 @@ administration skills using Red Hat Enterprise Linux 10.2.
 - Understand Linux system architecture.
 - Perform essential system administration tasks.
 - Manage users, groups and permissions.
-- Monitor system resources and processes.
-- Develop practical Linux troubleshooting skills.
 
 ## Practical Documentation
 
